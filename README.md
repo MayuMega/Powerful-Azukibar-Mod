@@ -1,4 +1,4 @@
-# create_micra_mod
+# Powerful Azukibar Mod
 
 作成したマインクラフトのMODをアップロードするためにGitHubを始めました。
 よろしくお願いします。
