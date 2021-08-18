@@ -1,4 +1,4 @@
-# Powerful Azukibar Mod
+# Powerful Azukibar Mod 
 
 Minecraft Forgeのバージョンは1.16.5でプレイできます。
 <br>
